@@ -10,4 +10,4 @@ I'm currently pursuing a dual degree in Physics and Computer Engineering @ NYU. 
 - Research assistant @ NYU, building analytical and ML models of trap-limited charge transport in semiconductor devices
 
 ### Contact
-[emmettralston@gmail.com](mailto:emmettralston@gmail.com) · [linkedin.com/in/emmett-ralston](https://www.linkedin.com/in/emmett-ralston)
+[ejr7522@nyu.edu](mailto:emmettralston@gmail.com) · [linkedin.com/in/emmett-ralston](https://www.linkedin.com/in/emmett-ralston)
