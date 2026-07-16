@@ -6,7 +6,7 @@ I'm currently pursuing a dual degree in Physics and Computer Engineering @ NYU. 
 - Building [a latency profiler for voice AI agents](https://github.com/emmettralston/Voice-Agent-Latency-Profiler) 
 
 ### Experience
-- AI engineer intern @ LPL Financial, used NLP to analyze and automate advisor feedback processing
+- AI engineer intern @ LPL Financial, NLP to analyze and automate advisor feedback processing
 - Research assistant @ NYU, building analytical and ML models of trap-limited charge transport in semiconductor devices
 
 ### Contact
