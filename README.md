@@ -1,10 +1,10 @@
-# Emmett Ralston
-Physics & Computer Engineering student @ NYU, experience in enterprise AI systems.
+# Hi, I'm Emmett
+I am currently pursuing a dual degree in Physics and Computer Engineering @ NYU. I have experience in applied AI and I'm excited to keep growing in that space.
 
 ### Experience
 - AI engineering intern @ Domify, a seed-stage startup building an AI platform for regulatory oversight in financial services
-- AI engineer intern @ LPL Financial, my work involved applied NLP projects to analyze advisor feedback
-- Research assistant @ NYU, building predictive and analytical models of trap-limited charge transport in semiconductor devices
+- AI engineer intern @ LPL Financial, my work involved applied NLP projects to analyze and automate advisor feedback processing
+- Research assistant @ NYU, building analytical and ML models of trap-limited charge transport in semiconductor devices
 
 ### Building
 - [A latency profiler for voice AI agents](https://github.com/emmettralston/Voice-Agent-Latency-Profiler) 
