@@ -1,9 +1,9 @@
 # Hi, I'm Emmett
-I am currently pursuing a dual degree in Physics and Computer Engineering @ NYU. I have experience in applied AI and I'm excited to keep growing in that space.
+I'm currently pursuing a dual degree in Physics and Computer Engineering @ NYU. I have experience in applied AI and I'm excited to keep growing in that space.
 
 ### Experience
 - AI engineering intern @ Domify, a seed-stage startup building an AI platform for regulatory oversight in financial services
-- AI engineer intern @ LPL Financial, my work involved applied NLP projects to analyze and automate advisor feedback processing
+- AI engineer intern @ LPL Financial, used NLP to analyze and automate advisor feedback processing
 - Research assistant @ NYU, building analytical and ML models of trap-limited charge transport in semiconductor devices
 
 ### Building
