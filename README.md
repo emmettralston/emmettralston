@@ -2,7 +2,7 @@
 I'm currently pursuing a dual degree in Physics and Computer Engineering @ NYU. I have experience in applied AI and I'm excited to keep growing in that space.
 
 ### Currently
-- AI engineering intern @ Domify, a seed-stage startup building an AI platform for regulatory oversight in financial services
+- AI engineer intern @ Domify, a seed-stage startup building an AI platform for regulatory oversight in financial services
 - Building [a latency profiler for voice AI agents](https://github.com/emmettralston/Voice-Agent-Latency-Profiler) 
 
 ### Experience
